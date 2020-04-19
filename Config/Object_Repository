@@ -1,0 +1,3 @@
+ChromeDriver=C:\\Selenium\\driver\\chromedriver_win32\\chromedriver.exe
+
+URL=http://google.com
